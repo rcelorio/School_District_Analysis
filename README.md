@@ -2,7 +2,7 @@
 Module 4 - School District Analysis
 
 ## Challenge Objective
-	The grades of the ninth graders at Thomas High School have been changed. After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
+The grades of the ninth graders at Thomas High School have been changed. After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
 
 * Replace the ninth-grade math and reading scores from Thomas High School.
 * Keep all other data associated with the ninth-grade students and Thomas High School intact.
